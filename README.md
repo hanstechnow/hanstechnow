@@ -1,8 +1,3 @@
-- 👋 Hi, I’m @hanstechnow
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning programming
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me ...
 
 <!---
 hanstechnow/hanstechnow is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
